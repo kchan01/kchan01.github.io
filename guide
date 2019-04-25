@@ -1,0 +1,41 @@
+To Do:
+
+Overall Format
+1) Search page should not be linked on the navbar, but rather linked to search bar button.
+The search bar button will be next to every search bar.
+
+2) Put a search bar with search button at the top right on every page.
+
+3) Link that search button next to the top right button to the search page.
+
+4) Remove the lyrics tab and have it only linked to the search page.
+
+5) Have all navbar buttons give visual feedback when on that webpage (see web design website).
+  Maybe have part of the bar highlight where your page is link tabbed. (flex box?)
+
+
+
+Home Page
+1) Put search button next to search box
+
+2) Turn home button into logo? (aligned left on top navbar)
+
+3) Align center the bottom navbar buttons, but social media will be icon buttons that are aligned right.
+
+4) Optional: Text pop up when hovering over home page images.
+
+
+Search Page
+1) Build it (design might be way to complicated, maybe just easier to list a bunch of songs with their images).
+
+
+Artist Page
+1) Build it (is it feasible with the current design?)
+
+
+Lyrics Page
+1) Don't have lyrics tab at top and instead, link the lyrics page in the search page.
+
+2) Optional: Image of song and or album behind the title/name header, or even in the background of the entire lyric page.
+
+3) Optional: Fix how the text overflows into the next line when the window changes.
